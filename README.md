@@ -32,7 +32,7 @@ Penguin, Owl - IBird; Shark, Skate - IFish; Crocodile, Snake - IReptile.
 После создания объекта в зависимости от того, какой метод мы выбрали 
 и что мы туда передали, будет соответственный консольный вывод. 
 
-К примеру мсы создали объект imperator_penguin класса Penguin. И вызываем его методы
+К примеру мы создали объект imperator_penguin класса Penguin. И вызываем его методы
 
     let imperator_penguin = new Penguin();
     imperator_penguin.breath()
